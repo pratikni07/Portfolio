@@ -8,7 +8,7 @@ export const projects = [
   {
     image:
       "https://res.cloudinary.com/dkbzscmmq/image/upload/f_auto,q_auto/v1/Cineflex/iojibt2v2mtyqllyd3do",
-    title: "CineFlex Movies",
+    title: "CineFlex Movies Platform",
     description:
       "Cineflex is a sleek movie discovery platform built with React.js and the TMDb API.",
     link: "https://cineflex-movies.vercel.app",
